@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+keras
+tensorflow
+wfdb
+scipy
+python_speech_features
+pillow
